@@ -1,0 +1,3 @@
+groceries,29.8
+transport,4.2
+coffee,3.8
